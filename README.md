@@ -1,4 +1,4 @@
-<div><img src="caminho/para/imagem.png" alt="Texto Alternativo" width="300"></div>
+<div><img src="https://github.com/Camscaca-dev/BruniBolo/blob/main/Bruni.jpg" alt="banner" width="300"></div>
 
 #BRUNIBOLO
  LINKS

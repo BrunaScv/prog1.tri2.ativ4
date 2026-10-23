@@ -1,4 +1,4 @@
-<div><img src="https://github.com/Camscaca-dev/BruniBolo/blob/main/Bruni.png" alt="banner" width="1000"></div>
+<div><img src="https://github.com/Camscaca-dev/BruniBolo/blob/main/Bruni.png" alt="banner"></div>
 
 #BRUNIBOLO
  LINKS

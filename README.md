@@ -1,4 +1,5 @@
-<div></div>
+<div><img src="caminho/para/imagem.png" alt="Texto Alternativo" width="300"></div>
+
 #BRUNIBOLO
  LINKS
 -------------------------------------------------------
